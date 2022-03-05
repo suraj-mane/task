@@ -1,0 +1,27 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "prod": "parcel bulid src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suraj-mane/task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suraj-mane/task/issues"
+  },
+  "homepage": "https://github.com/suraj-mane/task#readme",
+  "dependencies": {
+    "dayjs": "^1.10.8",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
